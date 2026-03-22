@@ -1,0 +1,15 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de logs
+*.log
+bot_trading.log
+
+# Fichiers de configuration (si vous les avez)
+config.py
+
+# Fichiers système
+.DS_Store
+Thumbs.db
